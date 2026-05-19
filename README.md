@@ -4,7 +4,7 @@
 ## 功能清单
 | 文件 | 说明 |
 |------|----------|
-| [`serial_log_capture.py/`](serial_log_capture.py) | 串口日志自动抓取 + 异常关键字告警 |
+| [`serial_log_capture.py`](serial_log_capture.py) | 串口日志自动抓取 + 异常关键字告警 |
 | [`power_monitor.py`](power_monitor.py) | 程控电源电压/电流自动化采集 |
 | [`auto_regeression_test.py`](auto_regeression_test.p) | 硬件功能回归自动化测试 + 报告生成  |
 
